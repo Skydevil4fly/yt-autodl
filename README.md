@@ -25,11 +25,11 @@ This Bash script automates YouTube downloads using `yt-dlp` and `ffmpeg-python`.
 1. **Place the script** in the directory where you want the videos to be downloaded.  
 2. **Make it executable** (only once):  
    ```bash
-   chmod +x testing.sh
+   chmod +x yt-autodl.sh
    ```
 3. **Run the script**:  
    ```bash
-   ./testing.sh
+   ./yt-autodl.sh
    ```
 
 Follow the prompts to enter a YouTube URL, choose format, and optionally filter content by keywords.
